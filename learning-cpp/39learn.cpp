@@ -57,3 +57,4 @@ int main(){
     cout<<root->right->right->data<<endl;
     postorder(root);
 }
+
